@@ -9,7 +9,7 @@ while(number>0){
     number = Math.floor(number / 10)
 }
 if(temp == sum){
-    console.log("Its Armstong")
+    console.log("Its Armstrong")
 }else{
     console.log("Not Armstrong")
 }
